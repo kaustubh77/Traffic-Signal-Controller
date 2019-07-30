@@ -4,4 +4,4 @@ I have also written a testbench to verify the proper working of the written veri
 
 # State diagram
 
-<img src="https://github.com/kaustubh77/Traffic-Signal-Controller/blob/master/State%20diagram.jpg" width="200" height="400" />
+<img src="https://github.com/kaustubh77/Traffic-Signal-Controller/blob/master/State%20diagram.jpg" width="800" height="800" />
