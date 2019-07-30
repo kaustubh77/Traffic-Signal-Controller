@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vsig_control
+Z0 !s110 1562863030
+!i10b 1
+!s100 zT20Z0X=^[QC6>8X@bi?I1
+I?@K234oMF1W<kH9C<QaCP3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/KAUSTUBH/Downloads/Internship/Projects/TrafficSignalController
+w1562862377
+8C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\TrafficSignalController.v
+FC:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\TrafficSignalController.v
+L0 8
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1562863030.000000
+!s107 C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\TrafficSignalController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\TrafficSignalController.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vstimulus
+R0
+!i10b 1
+!s100 P0YPl41zeDQFSb[4RV@<P1
+InbZiB2YziC6]Qb>1]i_Qj0
+R1
+R2
+w1562862355
+8C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\tb_TrafficSignalController.v
+FC:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\tb_TrafficSignalController.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\tb_TrafficSignalController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\KAUSTUBH\Downloads\Internship\Projects\TrafficSignalController\tb_TrafficSignalController.v|
+!s101 -O0
+!i113 1
+R5
